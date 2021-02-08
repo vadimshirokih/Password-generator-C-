@@ -6,14 +6,6 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "Password Generator (CSharp)/1.0.0": {
-        "dependencies": {
-          "andkfox": "1.0.0"
-        },
-        "runtime": {
-          "Password Generator (CSharp).dll": {}
-        }
-      },
       "andkfox/1.0.0": {
         "runtime": {
           "andkfox.dll": {}
@@ -22,11 +14,6 @@
     }
   },
   "libraries": {
-    "Password Generator (CSharp)/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
     "andkfox/1.0.0": {
       "type": "project",
       "serviceable": false,

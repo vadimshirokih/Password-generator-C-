@@ -1,0 +1,9 @@
+C:\Users\ANDKFOX\source\repos\Password Generator (CSharp)\andkfox\bin\Debug\netcoreapp3.1\andkfox.deps.json
+C:\Users\ANDKFOX\source\repos\Password Generator (CSharp)\andkfox\bin\Debug\netcoreapp3.1\andkfox.dll
+C:\Users\ANDKFOX\source\repos\Password Generator (CSharp)\andkfox\bin\Debug\netcoreapp3.1\andkfox.pdb
+C:\Users\ANDKFOX\source\repos\Password Generator (CSharp)\andkfox\obj\Debug\netcoreapp3.1\andkfox.csprojAssemblyReference.cache
+C:\Users\ANDKFOX\source\repos\Password Generator (CSharp)\andkfox\obj\Debug\netcoreapp3.1\andkfox.AssemblyInfoInputs.cache
+C:\Users\ANDKFOX\source\repos\Password Generator (CSharp)\andkfox\obj\Debug\netcoreapp3.1\andkfox.AssemblyInfo.cs
+C:\Users\ANDKFOX\source\repos\Password Generator (CSharp)\andkfox\obj\Debug\netcoreapp3.1\andkfox.csproj.CoreCompileInputs.cache
+C:\Users\ANDKFOX\source\repos\Password Generator (CSharp)\andkfox\obj\Debug\netcoreapp3.1\andkfox.dll
+C:\Users\ANDKFOX\source\repos\Password Generator (CSharp)\andkfox\obj\Debug\netcoreapp3.1\andkfox.pdb
